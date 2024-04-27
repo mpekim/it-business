@@ -1,0 +1,44 @@
+body{
+    font-family: Helvetica;
+    text-align: center;
+    align-items: center;
+    width: 800px;
+    margin: auto;
+}
+
+div.header h1{
+    text-transform: uppercase;
+    background-color: #00AACC;
+    color: #FFFFFF;
+}
+
+div.header h2{
+    text-transform: uppercase;
+   font-style: italic;
+   font-weight: 100;
+}
+
+div.main h1{
+    background-color: #00AACC;
+    color: #FFFFFF;
+}
+
+div.main ul{
+    width: 250px;
+    margin: auto;
+    text-align: center;
+    list-style-type: none;
+}
+
+div.main p{
+    font-style: italic;
+}
+
+div.payment img.payment{
+    height: 5em;
+    width: 7.5em;
+}
+
+div.contact ul{
+    list-style-type: none;
+}
